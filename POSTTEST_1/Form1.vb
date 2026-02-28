@@ -12,7 +12,6 @@
 
             txtIPK.Text = ipk.ToString("N2")
 
-            ' Logika Predikat (Ditambah kondisi untuk IP di bawah 2.0)
             If ipk < 2.0 Then
                 lblRanking.Text = "Predikat: ........."
             ElseIf ipk >= 2.0 And ipk <= 2.75 Then
@@ -37,4 +36,5 @@
         txtIPK.Text = "0.00"
         lblRanking.Text = "Predikat: -"
     End Sub
+
 End Class
