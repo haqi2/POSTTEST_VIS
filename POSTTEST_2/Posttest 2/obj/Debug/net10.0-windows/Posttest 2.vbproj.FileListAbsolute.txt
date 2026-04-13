@@ -1,0 +1,17 @@
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\bin\Debug\net10.0-windows\Posttest 2.exe
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\bin\Debug\net10.0-windows\Posttest 2.deps.json
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\bin\Debug\net10.0-windows\Posttest 2.runtimeconfig.json
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\bin\Debug\net10.0-windows\Posttest 2.dll
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\bin\Debug\net10.0-windows\Posttest 2.pdb
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest_2.Form1.resources
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest 2.vbproj.GenerateResource.cache
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest 2.AssemblyInfoInputs.cache
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest 2.AssemblyInfo.vb
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest 2.vbproj.CoreCompileInputs.cache
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest 2.dll
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\refint\Posttest 2.dll
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest 2.pdb
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest 2.genruntimeconfig.cache
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\ref\Posttest 2.dll
+D:\POSTTEST VISUAL STUDIO\Posttest 2\Posttest 2\obj\Debug\net10.0-windows\Posttest_2.Resources.resources
